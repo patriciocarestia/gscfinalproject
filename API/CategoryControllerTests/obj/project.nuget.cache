@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WAWVrO3P7gu2nTqTfzrTXoVOVbbSu/zn838S8IKm/jzBNGoJbclhIh8H6GQcZgPN4QnbS2Q5fXJ1vI+Va5RXvg==",
+  "dgSpecHash": "ulHpBJbLDjVUgoq+n6/Osv2HzbOm7r2E9rU2YYqNqzlGm8FP5KhfbXGQj63nOWPveoaGRApQ3ybI9cMAjnYFXA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Patri\\Documentos\\Projects\\FinalProject\\API\\CategoryControllerTests\\CategoryControllerTests.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\Patri\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Patri\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Patri\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\fluentassertions\\6.8.0\\fluentassertions.6.8.0.nupkg.sha512",
     "C:\\Users\\Patri\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
     "C:\\Users\\Patri\\.nuget\\packages\\grpc.aspnetcore\\2.50.0\\grpc.aspnetcore.2.50.0.nupkg.sha512",
     "C:\\Users\\Patri\\.nuget\\packages\\grpc.aspnetcore.server\\2.50.0\\grpc.aspnetcore.server.2.50.0.nupkg.sha512",
