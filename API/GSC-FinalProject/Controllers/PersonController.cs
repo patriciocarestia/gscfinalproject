@@ -58,11 +58,15 @@ namespace GSC_FinalProject.Controllers
             if (personDTO is null)
                 return NotFound();
 
-            person = _mapper.Map<Person>(personDTO);
+            person.Name = personDTO.Name;
+            person.Email = personDTO.Email;
+            person.PhoneNumber = personDTO.PhoneNumber;
+
             _uow.PersonsRepository.Update(person);
             _uow.Complete();
 
-            return Ok(person);
+            var mappedPerson = _mapper.Map<PersonDTO>(person);
+            return Ok(mappedPerson);
         }
 
         [HttpDelete("{id}")]
