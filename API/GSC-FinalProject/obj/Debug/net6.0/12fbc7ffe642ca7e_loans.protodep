@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Loans.cs \
+obj\Debug\net6.0\Protos/LoansGrpc.cs: Protos/loans.proto

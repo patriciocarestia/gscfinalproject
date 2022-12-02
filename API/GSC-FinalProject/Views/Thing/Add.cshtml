@@ -1,0 +1,28 @@
+﻿@model GSC_FinalProject.Models.ThingViewModel
+
+@{
+}
+
+<div class="container mt-5 col-sm-8 ">
+    <br />
+    <div class="row">
+      <div class="col">
+            <h4 class="mb-1 text-center">Add  <b>New Thing</b></h4>
+      </div>
+    </div>
+    <form method="post" action="Add">
+      @Html.AntiForgeryToken()
+      <div class="form-group my-3">
+        <label class="mb-2">Description</label>
+        <input type="text" class="form-control" asp-for="Description">
+      </div>
+        <div class="form-group mb-4">
+            <label class="mb-2" asp-for="CategoryId">Category</label>
+            <select asp-for="CategoryId" asp-items="@ViewData["Categories"] as SelectList" class="form-control"></select>
+            <span asp-validation-for="CategoryId"></span>
+        </div>
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary mb-5 text-center">Add Thing</button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,5 @@
+C:\Users\Patri\Documentos\Projects\FinalProject\API\CategoryControllerTests\obj\Debug\net6.0\CategoryControllerTests.csproj.AssemblyReference.cache
+C:\Users\Patri\Documentos\Projects\FinalProject\API\CategoryControllerTests\obj\Debug\net6.0\CategoryControllerTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patri\Documentos\Projects\FinalProject\API\CategoryControllerTests\obj\Debug\net6.0\CategoryControllerTests.AssemblyInfoInputs.cache
+C:\Users\Patri\Documentos\Projects\FinalProject\API\CategoryControllerTests\obj\Debug\net6.0\CategoryControllerTests.AssemblyInfo.cs
+C:\Users\Patri\Documentos\Projects\FinalProject\API\CategoryControllerTests\obj\Debug\net6.0\CategoryControllerTests.csproj.CoreCompileInputs.cache

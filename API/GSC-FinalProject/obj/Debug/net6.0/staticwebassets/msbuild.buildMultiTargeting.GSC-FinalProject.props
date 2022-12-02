@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GSC-FinalProject.props" />
+</Project>
